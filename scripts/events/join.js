@@ -74,7 +74,7 @@ https://www.facebook.com/hlao.whatsup
 
 🔵WHATSAPP NUMBER: wa.me/+8801942246034
 
-🟢SUPPORT EMAIL: www.sadhinkhanmmmm@gmail.com`, attachment: fs.createReadStream(gifPath)}, threadID));
+🟢SUPPORT EMAIL: www.sadhinkhanmmmm@gmail.com`, attachment: fs.createReadStream(gifPath)}, );
   }})
 .catch(error => {
     console.error(error);
